@@ -1,0 +1,41 @@
+C:\Users\dell\Desktop\BAAZIZ HOUSSEIN\My works\3rd year\C#\SHI-UML_Ribon\bin\Release\SHI-UML.exe.config
+C:\Users\dell\Desktop\BAAZIZ HOUSSEIN\My works\3rd year\C#\SHI-UML_Ribon\bin\Release\SHI-UML.exe
+C:\Users\dell\Desktop\BAAZIZ HOUSSEIN\My works\3rd year\C#\SHI-UML_Ribon\bin\Release\SHI-UML.pdb
+C:\Users\dell\Desktop\BAAZIZ HOUSSEIN\My works\3rd year\C#\SHI-UML_Ribon\bin\Release\Control.Draggable.dll
+C:\Users\dell\Desktop\BAAZIZ HOUSSEIN\My works\3rd year\C#\SHI-UML_Ribon\bin\Release\System.Windows.Forms.Ribbon.dll
+C:\Users\dell\Desktop\BAAZIZ HOUSSEIN\My works\3rd year\C#\SHI-UML_Ribon\obj\Release\SHI_UML.Form1.resources
+C:\Users\dell\Desktop\BAAZIZ HOUSSEIN\My works\3rd year\C#\SHI-UML_Ribon\obj\Release\SHI_UML.FormChangeText.resources
+C:\Users\dell\Desktop\BAAZIZ HOUSSEIN\My works\3rd year\C#\SHI-UML_Ribon\obj\Release\SHI_UML.FormMultip.resources
+C:\Users\dell\Desktop\BAAZIZ HOUSSEIN\My works\3rd year\C#\SHI-UML_Ribon\obj\Release\SHI_UML.FormNewActor.resources
+C:\Users\dell\Desktop\BAAZIZ HOUSSEIN\My works\3rd year\C#\SHI-UML_Ribon\obj\Release\SHI_UML.FormNewClass.resources
+C:\Users\dell\Desktop\BAAZIZ HOUSSEIN\My works\3rd year\C#\SHI-UML_Ribon\obj\Release\SHI_UML.FormNewDiagram.resources
+C:\Users\dell\Desktop\BAAZIZ HOUSSEIN\My works\3rd year\C#\SHI-UML_Ribon\obj\Release\SHI_UML.FormNewProject.resources
+C:\Users\dell\Desktop\BAAZIZ HOUSSEIN\My works\3rd year\C#\SHI-UML_Ribon\obj\Release\SHI_UML.FormNewUseCase.resources
+C:\Users\dell\Desktop\BAAZIZ HOUSSEIN\My works\3rd year\C#\SHI-UML_Ribon\obj\Release\SHI_UML.FormRelationType.resources
+C:\Users\dell\Desktop\BAAZIZ HOUSSEIN\My works\3rd year\C#\SHI-UML_Ribon\obj\Release\SHI_UML.Properties.Resources.resources
+C:\Users\dell\Desktop\BAAZIZ HOUSSEIN\My works\3rd year\C#\SHI-UML_Ribon\obj\Release\SHI-UML.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\BAAZIZ HOUSSEIN\My works\3rd year\C#\SHI-UML_Ribon\obj\Release\SHI-UML.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\BAAZIZ HOUSSEIN\My works\3rd year\C#\SHI-UML_Ribon\obj\Release\SHI-UML.csproj.CopyComplete
+C:\Users\dell\Desktop\BAAZIZ HOUSSEIN\My works\3rd year\C#\SHI-UML_Ribon\obj\Release\SHI-UML.exe
+C:\Users\dell\Desktop\BAAZIZ HOUSSEIN\My works\3rd year\C#\SHI-UML_Ribon\obj\Release\SHI-UML.pdb
+C:\Users\dell\Desktop\SHI-UML-GP4\bin\Release\SHI-UML.exe.config
+C:\Users\dell\Desktop\SHI-UML-GP4\bin\Release\SHI-UML.exe
+C:\Users\dell\Desktop\SHI-UML-GP4\bin\Release\SHI-UML.pdb
+C:\Users\dell\Desktop\SHI-UML-GP4\bin\Release\Control.Draggable.dll
+C:\Users\dell\Desktop\SHI-UML-GP4\bin\Release\System.Windows.Forms.Ribbon.dll
+C:\Users\dell\Desktop\SHI-UML-GP4\obj\Release\SHI-UML.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\SHI-UML-GP4\obj\Release\SHI_UML.Form1.resources
+C:\Users\dell\Desktop\SHI-UML-GP4\obj\Release\SHI_UML.FormChangeText.resources
+C:\Users\dell\Desktop\SHI-UML-GP4\obj\Release\SHI_UML.FormMultip.resources
+C:\Users\dell\Desktop\SHI-UML-GP4\obj\Release\SHI_UML.FormNewActor.resources
+C:\Users\dell\Desktop\SHI-UML-GP4\obj\Release\SHI_UML.FormNewClass.resources
+C:\Users\dell\Desktop\SHI-UML-GP4\obj\Release\SHI_UML.FormNewDiagram.resources
+C:\Users\dell\Desktop\SHI-UML-GP4\obj\Release\SHI_UML.FormNewProject.resources
+C:\Users\dell\Desktop\SHI-UML-GP4\obj\Release\SHI_UML.FormNewUseCase.resources
+C:\Users\dell\Desktop\SHI-UML-GP4\obj\Release\SHI_UML.FormRelationType.resources
+C:\Users\dell\Desktop\SHI-UML-GP4\obj\Release\SHI_UML.Properties.Resources.resources
+C:\Users\dell\Desktop\SHI-UML-GP4\obj\Release\SHI-UML.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\SHI-UML-GP4\obj\Release\SHI-UML.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\SHI-UML-GP4\obj\Release\SHI-UML.csproj.CopyComplete
+C:\Users\dell\Desktop\SHI-UML-GP4\obj\Release\SHI-UML.exe
+C:\Users\dell\Desktop\SHI-UML-GP4\obj\Release\SHI-UML.pdb

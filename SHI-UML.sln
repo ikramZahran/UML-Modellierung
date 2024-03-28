@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SHI-UML", "SHI-UML.csproj", "{E36FB2C3-7F63-41D9-8994-FD605AA28D4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E36FB2C3-7F63-41D9-8994-FD605AA28D4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E36FB2C3-7F63-41D9-8994-FD605AA28D4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E36FB2C3-7F63-41D9-8994-FD605AA28D4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E36FB2C3-7F63-41D9-8994-FD605AA28D4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3542EAE9-16AC-48CF-B99E-3313F8DAED31}
+	EndGlobalSection
+EndGlobal
